@@ -1,6 +1,8 @@
 {% extends "base.html" %}
 {% block content %}
-    <h2>About Page</h2>
+
+
+    <h2>{{ page_title }}</h2>
     <p>A company is a legal entity formed by a group of individuals to engage in and operate a business—commercial or
         industrial—enterprise. A company may be organized in various ways for tax and financial liability purposes depending
         on the corporate law of its jurisdiction. The line of business the company is in will generally determine which
@@ -9,36 +11,40 @@
         have different ownership structures, regulations, and financial reporting requirements.
     </p>
 
-    <h3>Types of Companies</h3>
+    {% for member in company %}
 
-    <hr>
+        <div class="row featurette">
 
-    <div class="row featurette">
-        <div class="col-md-7">
-            <h4>Partnerships</h4>
-            <p>Partnerships are formal arrangements in which two or more parties cooperate to manage and operate a business.</p>
-            <h4>Corporations</h4>
-            <p>Corporations are legal entities that are separate and distinct from their owners and provide the same rights and
-                responsibilities as a person</p>
-            <h4>Associations</h4>
-            <p>Associations are vague and often misunderstood legal entities based on any group of individuals who join together for
-                business, social, or other purposes as a continuing entity. (This may or may not be taxable depending on structure
-                and purpose.)</p>
-        </div>
-        <div class="col-md-5">
-            <img src="https://images.unsplash.com/photo-1496851473196-e26508c21494?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80" alt="">
-        </div>
-    </div>
+            {% if loop.index % 2 != 0%}
 
-    <div class="row featurette">
-        <div class="col-md-5">
-            <img src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="">
+            <div class="col-md-7">
+                <h3>{{ loop.index }}. {{ member.name }}</h3>
+                <p>{{ member.description }}</p>
+            </div>
+            <div class="col-md-5">
+                <img src="{{ member.image_source }}" alt="" class="featurette-image image-responsive">
+            </div>
+
+            {% else %}
+
+                <div class="col-md-5">
+                    <img src="{{ member.image_source }}" alt="" class="featurette-image image-responsive">
+                </div>
+                <div class="col-md-7">
+                    <h3>{{ loop.index }}. {{ member.name }}</h3>
+                    <p>{{ member.description }}</p>
+                </div>
+
+            {% endif %}
+
         </div>
-        <div class="col-md-7">
-            <h4>Funds</h4>
-            <p>Funds are businesses engaged in the investing of pooled capital of investors.</p>
-            <h4>Trusts</h4>
-            <p>Trusts are fiduciary arrangements in which a third party holds assets on behalf of beneficiaries.</p>
-        </div>
-    </div>
+    
+        {% if loop.index != loop.length %}
+
+            <hr class="featurette-divider">
+
+        {% endif %}
+
+    {% endfor %}
+
 {% endblock %}
