@@ -2,101 +2,121 @@
     {
         "name": "Chief executive officer (CEO)",
         "description": "A CEO is a leading role responsible for making top-level decisions, gathering resources that support the company and driving operational and structural changes that directly influence organizational growth. In smaller businesses, this role can be interchangeable with the president and it's common for an owner to hold this title.",
-        "image_source": "https://images.unsplash.com/photo-1496851473196-e26508c21494?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80"
+        "image_source": "https://images.unsplash.com/photo-1496851473196-e26508c21494?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80",
+        "url": "chief-executive-officer"
     },
     {
         "name": "Chief operating officer (COO)",
         "description": "A COO oversees the company's operations. In smaller organizations, this role can defer to the general manager, a similar role to a COO. These top-level business roles ensure processes run efficiently and often oversee various departments to ensure employees are completing their work properly and in a timely manner.",
-        "image_source": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+        "image_source": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "url": "chief-operating-officer"
     },
     {
         "name": "Chief financial officer or controller (CFO)",
         "description": "The CFO, or controller, is responsible for the cash flow and the financial success of a business. Typically, a CFO and controller are two separate business roles within large corporations, but smaller organizations may combine these two roles into one job title. The CFO is usually responsible for finding investors and external funding opportunities for growing their business, while the controller oversees the expenses and assets of the company. When one individual assumes both financial roles, they manage both incoming revenue and outgoing expenses.",
-        "image_source": "https://images.unsplash.com/photo-1570126618953-d437176e8c79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=794&q=80"
+        "image_source": "https://images.unsplash.com/photo-1570126618953-d437176e8c79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=794&q=80",
+        "url": "chief-financial-officer-or-controller"
     },
     {
         "name": "Chief marketing officer (CMO)",
         "description": "The CMO directs marketing campaigns, plans marketing budgets and manages the entire marketing department of a company. This role may be in charge of multiple marketing teams, each with its own team leader or marketing manager. Additionally, the CMO usually makes the final decisions regarding the development and implementation of various marketing projects.",
-        "image_source": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+        "image_source": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "url": "chief-marketing-officer"
     },
     {
         "name": "Chief technology officer (CTO)",
         "description": "The CTO manages the technological functions of their organization. They commonly integrate new technology trends and ensure any technology they introduce meets the needs of their company. In companies that have large IT departments, the CTO oversees the high-level functions.",
-        "image_source": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1473&q=80"
+        "image_source": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1473&q=80",
+        "url": "chief-technology-officer"
     },
     {
         "name": "President",
         "description": "Some organizations designate a president instead of a CEO. While many of the responsibilities are the same between these two roles, a president may take on additional tasks that a CEO may not. They could perform some of the tasks that a COO and a CFO are in charge of in larger businesses. As a company grows, though, the president's role may encompass more defined tasks—like handling top-level decisions and directing their management teams—rather than a broad range of executive functions.",
-        "image_source": "https://images.unsplash.com/photo-1435575653489-b0873ec954e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+        "image_source": "https://images.unsplash.com/photo-1435575653489-b0873ec954e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "url": "president"
     },
     {
         "name": "Vice president",
         "description": "The vice president initiates the president's decisions and plans by directing mid-level managers and team leaders. They can act in an operational role, overseeing business operations and initiating organizational structures among the other roles.",
-        "image_source": "https://images.unsplash.com/photo-1462206092226-f46025ffe607?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1474&q=80"
+        "image_source": "https://images.unsplash.com/photo-1462206092226-f46025ffe607?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1474&q=80",
+        "url": "vice-president"
     },
     {
         "name": "Executive assistants",
         "description": "An executive assistant usually reports directly to the CEO and handles much of the CEO's administrative tasks. A business often relies on an executive assistant to organize and maintain the CEO's schedules, agendas and appointments.",
-        "image_source": "https://images.unsplash.com/photo-1495314736024-fa5e4b37b979?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1473&q=80"
+        "image_source": "https://images.unsplash.com/photo-1495314736024-fa5e4b37b979?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1473&q=80",
+        "url": "executive-assistants"
     },
     {
         "name": "Marketing manager",
         "description": "A marketing manager oversees the entire marketing department, depending on the size of the company. In large corporations, there can be multiple teams within the marketing department, each with its own marketing manager. Each manager reports directly to the CMO. In smaller businesses, the marketing manager may be the only top-level business role in charge of directing marketing efforts.",
-        "image_source": "https://images.unsplash.com/photo-1606857521015-7f9fcf423740?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+        "image_source": "https://images.unsplash.com/photo-1606857521015-7f9fcf423740?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "url": "marketing-manager"
     },
     {
         "name": "Product manager",
         "description": "Product managers analyze product markets and streamline processes related to product development. A product manager may focus their efforts on researching customer markets, evaluating in-demand products, assessing manufacturing processes for making products, analyzing competitor products and collaborating with marketing teams to develop strategies for promoting products.",
-        "image_source": "https://plus.unsplash.com/premium_photo-1668473367234-fe8a1decd456?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80"
+        "image_source": "https://plus.unsplash.com/premium_photo-1668473367234-fe8a1decd456?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80",
+        "url": "product-manager"
     },
     {
         "name": "Project manager",
         "description": "Project managers oversee many of the planning and development processes for business projects. These professionals initiate, design, monitor, control and finalize projects. This business role may have the added responsibility of analyzing and mitigating risks to various projects, and they commonly work with other department managers—such as marketing and product managers—to plan and develop each aspect of a project, including budget, resources and timelines.",
-        "image_source": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+        "image_source": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "url": "project-manager"
     },
     {
         "name": "Finance manager",
         "description": "Finance managers usually analyze costs and revenue and use this data to prepare financial reports. In smaller organizations, this business role may oversee several financial aspects of business operations, such as calculating and projecting incoming revenue and company expenses. In larger businesses, the finance manager may be responsible for managing staff accountants and bookkeepers, and they rely on the work of these professionals to create accurate financial reports and forecasts.",
-        "image_source": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+        "image_source": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "url": "finance-manager"
     },
     {
         "name": "Human resources manager",
         "description": "Human resources managers direct the human resources department. They oversee large teams within the human resources department, or in smaller organizations, they may be in charge of only a few staff members. This business role is crucial for operations because they recruit, interview, hire and onboard employees. HR managers commonly consult with top-level executives to initiate strategic plans and act as a liaison between upper-level management and company staff.",
-        "image_source": "https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80"
+        "image_source": "https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80",
+        "url": "human-resources-manager"
     },
     {
         "name": "Marketing specialist",
         "description": "A key role in the marketing department is the marketing specialist. Specialists perform several functions, such as gathering customer data, researching target demographics and optimizing content for SEO purposes. Many organizations have more than one marketing specialist working in the department, and this role typically reports directly to the marketing manager.",
-        "image_source": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80"
+        "image_source": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80",
+        "url": "marketing-specialist"
     },
     {
         "name": "Business analyst",
         "description": "Many companies employ business analysts who are responsible for evaluating the growth and development of the business. This role analyzes market trends, projects future revenue and develops plans that help businesses track profitability, product viability and the overall success of operations.",
-        "image_source": "https://images.unsplash.com/photo-1512403754473-27835f7b9984?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=715&q=80"
+        "image_source": "https://images.unsplash.com/photo-1512403754473-27835f7b9984?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=715&q=80",
+        "url": "business-analyst"
     },
     {
         "name": "Human resource personnel",
         "description": "Human resources personnel are an essential component of any business and HR staff work under the supervision of the HR manager. The staff in these business roles commonly handle payroll tasks, employee schedules and performance reviews and evaluations. In large companies, the HR department can consist of several HR managers and many staff members under their direction.",
-        "image_source": "https://plus.unsplash.com/premium_photo-1668473400164-0607cf92b61c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80"
+        "image_source": "https://plus.unsplash.com/premium_photo-1668473400164-0607cf92b61c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80",
+        "url": "human-resource-personnel"
     },
     {
         "name": "Accountant",
         "description": "An accountant oversees the day-to-day transactions of companies, including sales transactions, expense payments and tax reporting. Accountants in smaller organizations may have responsibilities that finance managers or CFOs handle in large business environments.",
-        "image_source": "https://images.unsplash.com/photo-1617526738882-1ea945ce3e56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1495&q=80"
+        "image_source": "https://images.unsplash.com/photo-1617526738882-1ea945ce3e56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1495&q=80",
+        "url": "accountant"
     },
     {
         "name": "Sales representative",
         "description": "Sales representatives connect with customers to sell their business' products or services. Successful sales teams use effective communication and interpersonal skills to build relationships with and maintain loyalty among their company's customers, which directly influences the revenue stream of the business.",
-        "image_source": "https://images.unsplash.com/photo-1610374792793-f016b77ca51a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80"
+        "image_source": "https://images.unsplash.com/photo-1610374792793-f016b77ca51a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+        "url": "sales-representative"
     },
     {
         "name": "Customer service representative",
         "description": "Customer service representatives help customers solve problems, handle product returns and refunds and resolve issues when customers are unsatisfied. These operational roles are essential for building a reputation for their company and fostering long-lasting customer relationships.",
-        "image_source": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+        "image_source": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "url": "customer-service-representative"
     },
     {
         "name": "Administrative assistant",
         "description": "The administrative assistant, office assistant or receptionist serves as the first point of contact for visitors and clients entering the business. They may perform many essential tasks such as managing the phone lines, communicating between clients and business partners and keeping staff schedules organized. They may even have tasks like data entry to help keep company documents current and accurate.",
-        "image_source": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+        "image_source": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "url": "administrative-assistant"
     }
 ]
